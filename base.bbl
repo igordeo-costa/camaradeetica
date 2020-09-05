@@ -1,0 +1,107 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Anderson 2004]{Anderson2004}
+\abntrefinfo{Anderson}{ANDERSON}{2004}
+{ANDERSON, C.
+\emph{The structure and real-time comprehension of quantifier scope ambiguity}.
+Tese (Doutorado) --- Northwestern University, 2004.}
+
+\bibitem[Barcellos 2017]{Barcellos2017}
+\abntrefinfo{Barcellos}{BARCELLOS}{2017}
+{BARCELLOS, J.~S.
+\emph{``Esse é mais difícil por causa das palavras'': uma investigação
+  psicolinguística acerca do papel da linguagem na resolução de problems
+  matemáticos de divisão}.
+Disserta\c{c}\~{a}o (Mestrado) --- Pontifícia Universidade Católica do Rio de
+  Janeiro, 2017.}
+
+\bibitem[Clifton e Frazier 2012]{ClifFrazier2012}
+\abntrefinfo{Clifton e Frazier}{CLIFTON; FRAZIER}{2012}
+{CLIFTON, C.; FRAZIER, L. Interpreting conjoined noun phrases and conjoined
+  clauses: collective vs. distributive preferences.
+\emph{Quarterly journal of experimental psychology}, v.~65, n.~9, p.
+  1760--1776, April 2012.}
+
+\bibitem[Dwivedi e Gibson 2017]{DwiGib2017}
+\abntrefinfo{Dwivedi e Gibson}{DWIVEDI; GIBSON}{2017}
+{DWIVEDI, V.; GIBSON, R.~M. An erp investigation of quantifier scope ambiguous
+  sentences: Evidence for number in events.
+\emph{Journal of Neurolinguistics}, v.~42, p. 63--82, May 2017.}
+
+\bibitem[Dwivedi et al. 2010]{Dwivedi2010}
+\abntrefinfo{Dwivedi et al.}{DWIVEDI et al.}{2010}
+{DWIVEDI, V. et al. The neural underpinnings of semantic ambiguity and
+  anaphora.
+\emph{Brain Research}, v.~1311, p. 93--109, 2010.}
+
+\bibitem[filik, Paterson e Liversedge 2004]{filik2004}
+\abntrefinfo{filik, Paterson e Liversedge}{FILIK; PATERSON; LIVERSEDGE}{2004}
+{FILIK, R.; PATERSON, K.~B.; LIVERSEDGE, S.~P. Processing doubly quantified
+  sentences: Evidence from eye movements.
+\emph{Psychonomic Bulletin \& Review}, v.~11, n.~5, p. 953--959, 2004.}
+
+\bibitem[Kurtzman e MacDonald 1993]{KMac1993}
+\abntrefinfo{Kurtzman e MacDonald}{KURTZMAN; MACDONALD}{1993}
+{KURTZMAN, H.~S.; MACDONALD, M.~C. Resolution of quantifier scope ambiguities.
+\emph{Cognition}, Elsevier, v.~48, n.~3, p. 243--279, 1993.}
+
+\bibitem[M{\"u}ller, Negr{\~a}o e Gomes 2007]{MullerETal2007}
+\abntrefinfo{M{\"u}ller, Negr{\~a}o e Gomes}{M{\"U}LLER; NEGR{\~A}O;
+  GOMES}{2007}
+{M{\"U}LLER, A. L.~P.; NEGR{\~A}O, E.~V.; GOMES, A.~P. ``{T}odo'' em contextos
+  distributivos.
+\emph{D.E.L.T.A.}, v.~23, n.~1, p. 71--95, 2007.}
+
+\bibitem[Negr{\~a}o 2002]{neg2002}
+\abntrefinfo{Negr{\~a}o}{NEGR{\~A}O}{2002}
+{NEGR{\~A}O, E.~V. Distributividade e genericidade nos sintagmas introduzidos
+  por ``cada'' e ``todo''.
+\emph{Revista do Gel}, -, n. número especial, p. 185--205, 2002.}
+
+\bibitem[Oliveira 2003]{PiresOliv2003}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2003}
+{OLIVEIRA, R.~P. Some remarks on ``todo n'' in brazilian portuguese.
+\emph{Revista Letras}, Editara UFPR, -, n.~60, p. 363--384, jul./dez. 2003.}
+
+\bibitem[Paterson, Filik e Liversedge 2008]{paterson2007}
+\abntrefinfo{Paterson, Filik e Liversedge}{PATERSON; FILIK; LIVERSEDGE}{2008}
+{PATERSON, K.~B.; FILIK, R.; LIVERSEDGE, S.~P. Competition during the
+  processing of quantifier scope ambiguities: Evidence from eye movements
+  during reading.
+\emph{The Quarterly Journal of Experimental Psychology}, Routledge, v.~61,
+  n.~3, p. 459--473, 2008.
+Dispon{\'\i}vel em:
+  \url{https://www.tandfonline.com/doi/abs/10.1080/17470210701255317}.}
+
+\bibitem[Patson e Warren 2010]{PatWarren2010}
+\abntrefinfo{Patson e Warren}{PATSON; WARREN}{2010}
+{PATSON, N.~D.; WARREN, T. Evidence for distributivity effects in
+  comprehension.
+\emph{Journal of Experimental Psychology: Learning, Memory and Cognition},
+  v.~36, n.~3, p. 782--789, 2010.}
+
+\bibitem[Rodrigues e Marcilese 2014]{RodMarc2014}
+\abntrefinfo{Rodrigues e Marcilese}{RODRIGUES; MARCILESE}{2014}
+{RODRIGUES, E. d.~S.; MARCILESE, M. Procedimentos heurísticos no processamento
+  linguístico? um estudo sobre a interpretação de expressões quantificadas
+  no pb.
+\emph{Fórum Linguístico}, v.~11, n.~n.s., p. 308--327, 2014.}
+
+\bibitem[Silva 2012]{silva2012}
+\abntrefinfo{Silva}{SILVA}{2012}
+{SILVA, F. R.~d.
+\emph{Foco e relações de escopo: um estudo de caso no português brasileiro.}
+Disserta\c{c}\~{a}o (Mestrado) --- Universidade de São Paulo, 2012.}
+
+\bibitem[Tunstall 1998]{Tunstall1998}
+\abntrefinfo{Tunstall}{TUNSTALL}{1998}
+{TUNSTALL, S.~L.
+\emph{The interpretation of quantifiers: semantics \& processing.}
+Tese (Doutorado) --- University of Massachusetts Amherst, 1998.}
+
+\end{thebibliography}
