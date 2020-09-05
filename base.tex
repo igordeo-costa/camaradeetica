@@ -12,6 +12,9 @@
 \usepackage{xcolor}
 \usepackage{enumitem}
 \usepackage{moreenum}
+\usepackage[alf]{abntex2cite} % será aposentado num futuro próximo;
+                              % precisamos conversar sobre o biblatex, mas
+                              % por ora usa esse mesmo
 
 \newcommand{\eng}[1]{\foreignlanguage{english}{\emph{#1}}}
 
@@ -35,7 +38,7 @@
 \textual
 \input{Cap1_Intro.tex}
 \input{Cap2_Ling.tex}
-% \input{Cap3_Psico.tex}
+\input{Cap3_Psico.tex}
 \input{Cap4_Objetivos.tex}
 \input{Cap6_Metodologia.tex}
 \input{Cap7_Cronograma.tex}
@@ -44,7 +47,6 @@
 \newpage
 \input{Cap8_Anexos.tex}
 \newpage
-\bibliographystyle{plain}
 \bibliography{Cap9_bibliografia.bib}
 
 \end{document}
